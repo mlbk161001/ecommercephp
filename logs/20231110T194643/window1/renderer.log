@@ -1,0 +1,5 @@
+2023-11-10 19:46:46.176 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/directory-to-open","scheme":"file"},"type":1,"exists":false}],"filesToDiff":[],"filesToMerge":[]}
+2023-11-10 19:46:48.577 [info] Started initializing default profile extensions in extensions installation folder. file:///root/.vscode-oss/extensions
+2023-11-10 19:46:50.797 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///root/.vscode-oss/extensions Unable to create file 'vscode-userdata:/root/.vscode-oss/extensions/extensions.json' that already exists when overwrite flag is not set
+2023-11-10 19:46:50.799 [info] Completed initializing default profile extensions in extensions installation folder. file:///root/.vscode-oss/extensions
+2023-11-10 19:46:54.228 [info] [perf] Render performance baseline is 62ms
